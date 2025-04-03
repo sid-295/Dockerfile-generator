@@ -52,11 +52,6 @@ pip install -r requirements.txt
 python3 generate_dockerfile.py
 ```
 
-
-
-```
-```
-
 ---
 
 ## 💡 How It Works
