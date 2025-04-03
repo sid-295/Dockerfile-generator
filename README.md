@@ -70,7 +70,7 @@ CMD ["python", "app.py"]
 
 ---
 
-## 💡 How It Works
+💡 How It Works
 
 1. Takes a **programming language** as input (e.g., Python, Node.js, Java).
 2. Uses **Ollama's Llama3 model** running locally to generate a **Dockerfile** with best practices.
@@ -78,22 +78,5 @@ CMD ["python", "app.py"]
 
 ---
 
-## 🏆 Troubleshooting
 
-- **Ollama not running?** Start it with:
-  ```sh
-  ollama serve
-  ```
-- **Model not found?** Pull it again using:
-  ```sh
-  ollama pull llama3.2:1b
-  ```
-- **Dependencies not installed?** Run:
-  ```sh
-  pip install -r requirements.txt
-  ```
-
----
-
-##
 
