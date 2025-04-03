@@ -39,7 +39,7 @@ This project uses **Ollama with the Llama3 model** to create Dockerfiles followi
 ```sh
 python3 -m venv venv
 source venv/bin/activate  # On Linux
-
+'''
 
 2️⃣ Install Dependencies
 
