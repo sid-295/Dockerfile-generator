@@ -36,7 +36,7 @@ This project uses **Ollama with the Llama3 model** to create Dockerfiles followi
 
 1️⃣ Create a Virtual Environment (Optional but Recommended)
 
-```sh
+
 python3 -m venv venv
 source venv/bin/activate  # On Linux
 
@@ -49,9 +49,9 @@ pip install -r requirements.txt
 
 3️⃣ Run the Script
 
-```sh
-python generate_dockerfile.py
-```
+
+python3 generate_dockerfile.py
+
 
 **Example Input & Output:**
 
